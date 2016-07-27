@@ -16,6 +16,7 @@ Members in order joined
 10. Brian Nguyen
 11. Tuan Duong
 12. Kat Phan
+13. Randy Huynh
 
 #### Rules of UNAVSA Tech Mafia
 
@@ -118,6 +119,12 @@ if you don't know how to use github edit this file by clicking on the pencil. an
 1. The intersection of social awareness and engineering is necessary to educate and empower.
 2. To build or improve tools for not only the VSA community, but also the Vietnamese population in North America.
 3. I am an extremely huge advocate for API involvement in  social justice movements, and women in STEM.
+
+### Randy Huynh - Cincinnati, CA
+#### UNAVSA, UVSA-Midwest, VSAO, UC VSA
+1. I love technology because it is always evolving and it allows for endless possbilities and creativity.
+2. I'm looking to learn new things and work with people in a team!
+3. I'm excited to see what we can do together to make advancements within our community!
   
 
 testing ifft integration. When Pull request, post to Facebook!
